@@ -15,3 +15,4 @@ https://dev.to/atherdon/how-i-created-a-simple-npm-package-with-basic-email-temp
 https://dev.to/atherdon/created-a-module-for-markdown-regexes-3a1b
 
 
+https://dev.to/atherdon/creating-an-advanced-structure-for-html-email-template-1n28 
